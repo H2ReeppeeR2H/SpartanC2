@@ -1,0 +1,62 @@
+SpartanC2 License Agreement
+
+Copyright (c) 2026 Spartan Technologies. All rights reserved.
+
+IMPORTANT: READ CAREFULLY BEFORE USING THIS SOFTWARE
+
+This SpartanC2 software ("Software") is licensed, not sold. By installing, copying, or using the Software, you agree to be bound by the terms of this License Agreement.
+
+1. LICENSE GRANT
+   Subject to the terms of this Agreement and payment of applicable license fees, Spartan Technologies grants you a non-exclusive, non-transferable license to:
+   - Install and use the Software on a single production deployment
+   - Modify configuration files for your deployment environment
+   - Access documentation and support materials provided
+
+2. LICENSE KEY
+   - A valid license key is required for the Software to function
+   - Each license key is issued for a specific client and deployment
+   - License keys may not be shared, transferred, or redistributed
+   - Tampering with license validation mechanisms is strictly prohibited
+
+3. RESTRICTIONS
+   You may NOT:
+   - Redistribute, sell, lease, or sublicense the Software
+   - Reverse engineer, decompile, or disassemble the Software
+   - Remove or modify any license notices or branding
+   - Use the Software for illegal purposes or to violate third-party rights
+   - Deploy the Software on more than one production instance per license
+   - Share your license key with unauthorized parties
+
+4. ANDROID AGENT
+   - The included Android agent code is for client device deployment only
+   - You must obtain proper consent before deploying to devices
+   - You are responsible for compliance with applicable laws and regulations
+   - Agent deployment must comply with Google Play and device manufacturer policies
+
+5. OWNERSHIP
+   - Spartan Technologies retains all ownership and intellectual property rights
+   - This license does not grant you any rights to trademarks or service marks
+
+6. SUPPORT AND UPDATES
+   - Support is provided as documented in the included documentation
+   - Updates and bug fixes may be provided at Spartan Technologies' discretion
+   - Major version upgrades may require separate licensing
+
+7. WARRANTY DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL SPARTAN TECHNOLOGIES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING FROM USE OF THE SOFTWARE.
+
+9. TERMINATION
+   - This license is effective until terminated
+   - Spartan Technologies may terminate this license if you breach any terms
+   - Upon termination, you must cease all use and destroy all copies
+
+10. GOVERNING LAW
+    This Agreement is governed by the laws of the jurisdiction in which Spartan Technologies operates.
+
+11. CONTACT
+    For license renewals, support, or questions about this Agreement, refer to the documentation provided with your purchase.
+
+BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS.
